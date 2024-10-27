@@ -1,6 +1,6 @@
 #include<iostream>
 
 int main() {
-	cout<<"bonjour"<<endl;
+	cout<<"coucou"<<endl;
 	return EXIT_SUCCESS;
 }
